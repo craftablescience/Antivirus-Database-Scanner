@@ -7,6 +7,13 @@
 - Developed on Ubuntu 19.04
 - Steady Internet connection
 
+### NEW! `analyze.py` Prerequisites:
+
+- Python 3.8 (should work with Python 3.7 but is untested)
+- Developed on Windows 10
+- Must have collected data at least once
+- No Internet necessary
+
 ### Instructions:
 
 1. Run the program.
